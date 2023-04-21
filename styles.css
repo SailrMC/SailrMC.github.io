@@ -3,8 +3,8 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-    background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 15px;
+	background-color: rgba(0, 0, 0, 0.7);
+	border-radius: 15px;
 	backdrop-filter: blur(10px);
 	padding: 1rem;
 }
@@ -23,9 +23,19 @@
 }
 
 .navbar a {
+	transition: all 0.3s ease;
 	text-decoration: none;
 	color: white;
-    font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.navbar a:hover {
+	transition: all 0.3s ease;
+	text-decoration: none;
+	color: gray;
+	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 	font-size: 1.2rem;
 }
