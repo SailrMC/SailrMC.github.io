@@ -10,10 +10,17 @@
         <email>youremailaddress@example.com</email>
     </author>
     <entry>
+        <title>SailrMC first prerelease (7.0) has been released.</title>
+        <link href="https://sailrmc.github.io/news/prerelease-7.0-1/"/>
+        <updated>2023-04-22T00:00:00Z</updated>
+        <id>https://sailrmc.github.io/news/prerelease-7.0-1</id>
+        <content type="html"><p>The first preview of SailrMC has been announced!<br>This is a fork of PrismLauncher 7.0, and this marks the first milestone. More information in the news article.</p> </content>
+    </entry>
+    <entry>
         <title>Welcome to SailrMC!</title>
-        <link href="https://prismlauncher.org/news/release-6.3/"/>
+        <link href="https://sailrmc.github.io/news/"/>
         <updated>2023-02-03T00:00:00Z</updated>
-        <id>https://prismlauncher.org/news/</id>
+        <id>https://sailrmc.github.io/news/</id>
         <content type="html"><p>This is just a test for the brand new RSS feed for the launcher.</p> </content>
     </entry>
 </feed>
