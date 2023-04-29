@@ -10,6 +10,13 @@
         <email>youremailaddress@example.com</email>
     </author>
     <entry>
+        <title>SailrMC second prerelease (7.0) has been released.</title>
+        <link href="https://sailrmc.github.io/news/prerelease-7.0-2/"/>
+        <updated>2023-04-29T00:00:00Z</updated>
+        <id>https://sailrmc.github.io/news/prerelease-7.0-2</id>
+        <content type="html"><p>Here comes the 2nd (pre-)release! We've worked quite a lot and added (also re-added) some features! More information in the news article. Thank you for using SailrMC</p> </content>
+    </entry>
+    <entry>
         <title>SailrMC first prerelease (7.0) has been released.</title>
         <link href="https://sailrmc.github.io/news/prerelease-7.0-1/"/>
         <updated>2023-04-22T00:00:00Z</updated>
